@@ -27,3 +27,4 @@ function atualizarPreco(){
    
     document.querySelector("#preco").innerHTML = `R$ ${preco.toFixed(2)}`
 }
+
